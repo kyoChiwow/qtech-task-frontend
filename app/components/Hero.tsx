@@ -8,7 +8,7 @@ export default function Hero() {
   const [location, setLocation] = useState('');
 
   return (
-    <section className="bg-linear-to-br from-blue-50 to-white py-16">
+    <section className="bg-linear-to-br from-blue-50 to-white py-10">
         {/* Navbar Here */}
         <div>
             <Navbar />
